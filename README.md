@@ -1,0 +1,3 @@
+# Firmware Updates for latest version
+This repo contains the info about latest firmware and automates firmware update management for multiple device types. The system will be designed to enable dynamic delivery of firmware download links and related information to client applications (such as an Android app) for seamless firmware updates.
+Multiple repositories containing the firmware updates can be tracked on the basis of their versioning. The system will return the latest version available along with the release urls. The API will also provide a way to get all the releases associated with that particular repository.
