@@ -1,0 +1,9 @@
+{
+  "version": "v1.0.0",
+  "firmwares": {
+    "PrimusX-v1.0.0.hex": {
+      "filename": "PrimusX-v1.0.0.hex",
+      "url": "https://github.com/DronaAviation/magis-dummy/releases/download/v1.0.0/PrimusX-v1.0.0.hex"
+    }
+  }
+}
