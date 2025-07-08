@@ -1,25 +1,13 @@
 {
-  "version": "v2.0.0",
+  "version": "v1.1.2",
   "firmwares": {
-    "PrimusX-PPMv4.hex": {
-      "filename": "PrimusX-PPMv4.hex",
-      "url": "https://github.com/DronaAviation/magis-dummy/releases/download/v2.0.0/PrimusX-PPMv4.hex"
+    "PRIMUSX2-CAM-v1.1.2.hex": {
+      "filename": "PRIMUSX2-CAM-v1.1.2.hex",
+      "url": "https://github.com/DronaAviation/MagisV2/releases/download/v1.1.2/PRIMUSX2-CAM-v1.1.2.hex"
     },
-    "PrimusX2Camera-v5.hex": {
-      "filename": "PrimusX2Camera-v5.hex",
-      "url": "https://github.com/DronaAviation/magis-dummy/releases/download/v2.0.0/PrimusX2Camera-v5.hex"
-    },
-    "PrimusXClaw-v4.hex": {
-      "filename": "PrimusXClaw-v4.hex",
-      "url": "https://github.com/DronaAviation/magis-dummy/releases/download/v2.0.0/PrimusXClaw-v4.hex"
-    },
-    "PrimusXv4-Led.hex": {
-      "filename": "PrimusXv4-Led.hex",
-      "url": "https://github.com/DronaAviation/magis-dummy/releases/download/v2.0.0/PrimusXv4-Led.hex"
-    },
-    "PrimusXv4-Rover.hex": {
-      "filename": "PrimusXv4-Rover.hex",
-      "url": "https://github.com/DronaAviation/magis-dummy/releases/download/v2.0.0/PrimusXv4-Rover.hex"
+    "PRIMUSX2-v1.1.2.hex": {
+      "filename": "PRIMUSX2-v1.1.2.hex",
+      "url": "https://github.com/DronaAviation/MagisV2/releases/download/v1.1.2/PRIMUSX2-v1.1.2.hex"
     }
   }
 }
