@@ -4,6 +4,10 @@
     "PRIMUS": {
       "filename": "PRIMUS_X2_v1-2.2.0.hex",
       "url": "https://github.com/DronaAviation/MagisV2/releases/download/v2.2.0/PRIMUS_X2_v1-2.2.0.hex"
+    },
+    "PRIMUS_V5-2.2.0.hex": {
+      "filename": "PRIMUS_V5-2.2.0.hex",
+      "url": "https://github.com/DronaAviation/MagisV2/releases/download/v2.2.0/PRIMUS_V5-2.2.0.hex"
     }
   }
 }
