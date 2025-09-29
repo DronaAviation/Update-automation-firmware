@@ -8,6 +8,10 @@
     "PRIMUS_V5-2.2.0.hex": {
       "filename": "PRIMUS_V5-2.2.0.hex",
       "url": "https://github.com/DronaAviation/MagisV2/releases/download/v2.2.0/PRIMUS_V5-2.2.0.hex"
-    }
+    },
+    "PRIMUSX2-CAM-2.0.0.hex": {
+      "filename": "PRIMUSX2-CAM-2.0.0.hex",
+      "url": "https://github.com/DronaAviation/MagisV2/releases/download/v2.0.0/PRIMUSX2-CAM-2.0.0.hex"
+    },
   }
 }
