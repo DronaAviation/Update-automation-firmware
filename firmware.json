@@ -1,9 +1,13 @@
 {
-  "version": "v3.9.0",
+  "version": "v3.9.1",
   "firmwares": {
+    "PRIMUSX2": {
+      "filename": "PRIMUSX2_3.0.0.hex",
+      "url": "https://github.com/DronaAviation/MagisV2/releases/download/v3.9.1/PRIMUSX2_3.0.0.hex"
+    },
     "PRIMUS": {
-      "filename": "PRIMUS_X2_v1_3.9.0.hex",
-      "url": "https://github.com/DronaAviation/MagisV2/releases/download/v3.9.0/PRIMUS_X2_v1_3.9.0.hex"
+      "filename": "PRIMUS_X2_v1_3.9.1.hex",
+      "url": "https://github.com/DronaAviation/MagisV2/releases/download/v3.9.1/PRIMUS_X2_v1_3.9.1.hex"
     }
   }
 }
