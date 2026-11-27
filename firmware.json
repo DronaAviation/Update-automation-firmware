@@ -16,6 +16,14 @@
     "PRIMUSX2-CAM-2.2.0.hex": {
       "filename": "PRIMUSX2-CAM-2.0.0.hex",
       "url": "https://github.com/DronaAviation/MagisV2/releases/download/v2.0.0/PRIMUSX2-CAM-2.0.0.hex"
+    },
+    "PRIMUSV4": {
+      "filename": "PRIMUSV4_2.1.0.hex",
+      "url": "https://github.com/DronaAviation/MagisV2/releases/download/v3.9.1/PRIMUSV4_2.1.0.hex"
+    },
+    "PRIMUSX": {
+      "filename": "PRIMUSX_2.1.0.hex",
+      "url": "https://github.com/DronaAviation/MagisV2/releases/download/v3.9.1/PRIMUSX_2.1.0.hex"
     }
   }
 }
